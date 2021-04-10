@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+#clock{
+    font-family:"Orbitron";
+    color: steelblue;
+    font-size: 60px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    letter-spacing: 5px;
+}
